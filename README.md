@@ -5,7 +5,7 @@
 💻 Full Stack Developer | AI Contributor  
 🌍 Based in Bangladesh  
 
----
+
 
 ## 🧠 Research Interests
 - Human-Computer Interaction (HCI)
@@ -13,14 +13,14 @@
 - Augmented & Virtual Reality
 - Natural Language Processing (NLP)
 
----
+
 
 ## 📊 GitHub Stats
 
 
 ![Streak](https://streak-stats.demolab.com?user=Fahad-Bin-Mahbub&theme=tokyonight)
 
----
+
 
 
 ## 🛠️ Tech Stack
@@ -38,9 +38,9 @@ MongoDB, MySQL, Firebase, Prisma
 NumPy, Pandas, Scikit-learn  
 
 **Tools**  
-Git, Docker, Figma, Claude Code, Antigravity, Cursor.  
+Git, Docker, Figma, Claude Code, Antigravity, Cursor 
 
----
+
 
 ## 🧩 Problem Solving
 
@@ -48,7 +48,7 @@ Git, Docker, Figma, Claude Code, Antigravity, Cursor.
 - VJudge: 120+ problems  
 - LeetCode: 30+ problems  
 
----
+
 
 ## 🏆 Achievements
 
@@ -56,7 +56,7 @@ Git, Docker, Figma, Claude Code, Antigravity, Cursor.
 - 🏅 Scholarships in SSC & JSC  
 - 🎯 IELTS: 7.5 (L-8.5, R-8.5, W-7, S-6)
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -65,4 +65,4 @@ Git, Docker, Figma, Claude Code, Antigravity, Cursor.
 - 💻 [GitHub](https://github.com/Fahad-Bin-Mahbub)  
 - 🌍 [Portfolio](https://fahad-bin-mahbub.github.io/)  
 
----
+
