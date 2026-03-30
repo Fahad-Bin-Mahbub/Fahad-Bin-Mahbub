@@ -38,7 +38,7 @@ MongoDB, MySQL, Firebase, Prisma
 NumPy, Pandas, Scikit-learn  
 
 **Tools**  
-Git, Docker, Figma  
+Git, Docker, Figma, Claude Code, Antigravity, Cursor.  
 
 ---
 
