@@ -17,11 +17,8 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Fahad-Bin-Mahbub&show_icons=true&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=Fahad-Bin-Mahbub&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad-Bin-Mahbub&layout=compact&theme=tokyonight)
 
 ---
 
